@@ -1,0 +1,33 @@
+.Comments {
+  border-color: transparent;
+  background-color: rgb(122, 122, 233);
+  color: black;
+  margin: 10px;
+  font-family: fantasy, sans-serif;
+  border-radius: 7px;
+}
+.inpt {
+  width: 200px;
+  height: 40px;
+  outline: none;
+  background-color: lightgray;
+  border: none;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+.inpt:hover {
+  background-color: white;
+  transition: 0.3s;
+  border: 1px solid lightskyblue;
+}
+.btns {
+  height: 40px;
+  font-family: monospace;
+  background-color: rgba(0, 128, 0, 0.514);
+  border: none;
+  border-radius: 6px;
+}
+.btns:hover {
+  background-color: rgba(3, 184, 3, 0.747);
+  transition: 0.3s;
+}
